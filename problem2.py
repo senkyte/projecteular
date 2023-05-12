@@ -8,7 +8,6 @@ while currentnum < 4000000:
     previousnum = disposablecurrentnum
     if currentnum % 2 == 0:
         total += currentnum
-        print(total)
     
 
 print(total)
